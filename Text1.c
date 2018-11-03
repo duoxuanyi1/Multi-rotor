@@ -21,7 +21,7 @@ void test_option()
 }
 int main()
 {
-	//test_option();//测试通过
+	test_option();//测试不通过
 	printf("%d",option_print(3));
 	return 0;
 } 
